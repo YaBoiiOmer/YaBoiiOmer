@@ -1,6 +1,6 @@
 # Hey there!
 
-I'm Omer H., a first-year Computer Science student at **Reichman University**.  
+I'm Omer H, a first-year Computer Science student at **Reichman University**.  
 I love building **full-stack projects** from scratch, solving tricky problems, and learning new things along the way. I get really **fired up when I succeed at something challenging**, and that drive keeps me pushing through tough bugs and obstacles.  
 
 I'm very **friendly and social**, and I love engaging with people, collaborating on projects, and meeting new people. I'm deeply passionate about technology, always curious, and eager to learn as much as I can.
