@@ -1,39 +1,40 @@
-# About me
+# Hey there!
 
-Hi, I'm Omer H. — a First-Year Computer Science student at **Reichman University**, passionate about building **full-stack applications** and solving complex problems independently. I enjoy creating projects from scratch, tackling challenges head-on, and learning by doing.
+I'm Omer H., a first-year Computer Science student at **Reichman University**.  
+I love building **full-stack projects** from scratch, solving tricky problems, and learning new things along the way. I get really **fired up when I succeed at something challenging**, and that drive keeps me pushing through tough bugs and obstacles.  
 
----
-
-### 💻 Current Project
-
-- 🔭 **Songful Music Guessing Game** — an interactive game integrated with Spotify, focusing on scalable architecture, smooth UI, and engaging user experience.
+I'm very **friendly and social**, and I love engaging with people, collaborating on projects, and meeting new people. I'm deeply passionate about technology, always curious, and eager to learn as much as I can.
 
 ---
 
-### 🛠 Tech Stack & Tools
-
-- **Languages:** TypeScript (full-stack), Python (automation & scripting), Java (OOP & algorithms)
-- **Tools & Platforms:** Git (version control), Linux (development & deployment), Docker (containerization), Cursor (AI-assisted coding)
-- **Frameworks & Databases:** Next.js, Shadcn/UI, Prisma, PostgreSQL
+### What I’m Currently Building
+- **Songful** — a music guessing game integrated with Spotify. Focusing on smooth UX, scalable architecture, and most importantly - making the game fun to play.  
 
 ---
 
-### 🌟 Core Skills
-
-- Problem-solving & step-by-step logical thinking
-- Clean documentation and code organization
-- Independent project creation from concept to deployment
-- Persistence and resilience when tackling complex challenges
+### My Stack
+- **Languages:** TypeScript, Python, Java  
+- **Tools & Platforms:** Git, Linux, Docker, Cursor, VS Code  
+- **Frameworks & Databases:** Next.js, Shadcn/UI, Prisma, PostgreSQL  
 
 ---
 
-### ⚡ Fun Fact
-
-- I get really **fired up and motivated** when I succeed at solving tough problems — it’s one of the things that drives me the most in coding and project development!
+### What I Bring
+- Problem-solving & step-by-step logical thinking  
+- Clean documentation and organized code  
+- Ability to take projects from concept to deployment independently  
+- Persistence and excitement when tackling tough challenges  
+- Friendly and collaborative approach to working with others  
 
 ---
 
-### 📫 Reach Out
+### Reach Me
+- **LinkedIn:** [https://www.linkedin.com/in/omer-halpern/](https://www.linkedin.com/in/omer-halpern/)  
+- **Location:** Israel  
 
-- **LinkedIn:** https://www.linkedin.com/in/omer-halpern/ — connect to see my projects and contributions
-- **Location:** Israel 🇮🇱
+---
+
+### Fun Facts
+- I get really **worked up and motivated** when I solve tough problems  
+- I’m always curious about new tech and eager to understand how things work  
+- Love meeting new people and learning from them
