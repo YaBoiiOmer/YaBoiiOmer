@@ -35,6 +35,6 @@ I'm very friendly and social, and I love engaging with people, collaborating on 
 ---
 
 ### Fun Facts
-- I get really **worked up and motivated** when I solve tough problems  
+- I get really worked up and motivated when I solve tough problems  
 - I’m always curious about new tech and eager to understand how things work  
 - Love meeting new people and learning from them
