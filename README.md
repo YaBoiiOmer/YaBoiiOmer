@@ -8,7 +8,7 @@ I'm very friendly and social, and I love engaging with people, collaborating on 
 ---
 
 ### What I’m Currently Building
-- **Songful** — a music guessing game integrated with Spotify. Focusing on smooth UX, scalable architecture, and most importantly - making the game fun to play.  
+- **Hitster Clone** — a browser-based team music timeline game inspired by HITSTER. Friends join a private room, hear song clips, and race to place them in chronological order. 
 
 ---
 
